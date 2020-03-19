@@ -1,5 +1,6 @@
 # 20-03-19 React Conditional Rendering CW
-
+### VERY well done! Cool styling and good thinking to combine the event handler for the component render toggle. Good use of Fragment in place of div (this will become crucial as our apps get more complicated)
+### Score : 5/5
 #### Set Up
 - Create a react app called buy-sell-app
 - Create a class based component called `AppContainer` that displays an h1 tag with the text `Buy Sell App`
